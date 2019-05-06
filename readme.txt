@@ -17,3 +17,6 @@ Git tracks changes of files staget 2.
 creating a new branch in quick 
 
 create afdsaf feature1`
+
+Creating a new branch is quick AND simple.
+
